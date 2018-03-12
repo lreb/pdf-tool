@@ -1,7 +1,10 @@
+
+# Instructions
+## install https://wkhtmltopdf.org/ lib
 sudo apt install wkhtmltopdf
 
-online example
+## online example
 wkhtmltopdf http://google.com google.pdf
 
-local example
+## local example
 wkhtmltopdf index.html index.pdf
